@@ -3,10 +3,7 @@
 ### Hi there 👋 I am Maisara
 
 - 💬 Ask me about how to get into web development.
-- 🌱 I’m currently Work in new react native project ( Food Delivery )
-- 🔭 My Articals in Medium Site :link: [Link](https://medium.com/@hassanannajjar) :link: 
-- :computer:  [My Setup](https://medium.com/@hassanannajjar/setup-your-device-as-a-web-developer-fa14632fde6d) :computer: 
-- ⚡ Fun fact: I love play shooter Games :video_game: Call of duty & Battlefield
+- 🌱 I’m currently Work in new react common ui documentation
 
 <!--
 - 👯 I’m looking to collaborate on ...
